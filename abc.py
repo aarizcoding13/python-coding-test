@@ -1,0 +1,5 @@
+int(input("enter a math problem"))
+def add(+) 
+def subtract(-)
+def multiply(*)
+def divide(/)
